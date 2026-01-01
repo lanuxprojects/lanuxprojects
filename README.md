@@ -74,15 +74,18 @@ Stay tuned 👀
 
 ---
 
-## 🤝 Contributing
 
-We welcome contributions from everyone!
+## 🤝 Contributing / Join Us
 
-1. Fork the project  
-2. Make your changes  
-3. Submit a Pull Request  
+Become part of Lanux! By contributing to our projects, you can:
 
-> Good software grows with community ✨
+- Support the development from inside  
+- Become an official Lanux Member  
+- Earn your **Lanux Developer Badge**  
+
+**Badge Verification:**  
+Your GitHub username can be checked at [dev.lanux.online](https://dev.lanux.online) to see if you are a verified Lanux Developer.  
+
 
 ---
 
