@@ -84,7 +84,7 @@ Become part of Lanux! By contributing to our projects, you can:
 - Earn your **Lanux Developer Badge**  
 
 **Badge Verification:**  
-Your GitHub username can be checked at [dev.lanux.online](https://dev.lanux.online) to see if you are a verified Lanux Developer.  
+Your GitHub username can be checked at [lanux.online/badge](https://lanux.online/badge) to see if you are a verified Lanux Developer.  
 
 
 ---
