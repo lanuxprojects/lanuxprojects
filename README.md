@@ -1,16 +1,113 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://lanux.xyz/logo.png" alt="Lanux Logo" width="150"/>
+</p>
 
-<!--
-**lanuxprojects/lanuxprojects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Lanux Project</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Open-Source • Free • Modern Software</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  The Lanux Project is a large-scale software initiative started by Lanux Software Services.<br>
+  Its goal is to provide modern, high-quality and <b>free alternatives</b> to paid software.
+</p>
+
+---
+
+<p align="center">
+  <a href="https://lanux.online">
+    <img src="https://img.shields.io/badge/Website-Lanux.Project-7c5cff?style=for-the-badge">
+  </a>
+  <a href="https://github.com/lanux-project">
+    <img src="https://img.shields.io/badge/GitHub-Repository-5a36ff?style=for-the-badge">
+  </a>
+  <a href="https://lanux.online/contact">
+    <img src="https://img.shields.io/badge/Contact-Us-252525?style=for-the-badge">
+  </a>
+</p>
+
+---
+
+## 🚀 Vision
+
+Lanux Project exists to:
+
+✔ Give everyone access to powerful software  
+✔ Build clean, modern and privacy-respecting tools  
+✔ Create a strong open-source ecosystem  
+✔ Reduce dependency on expensive commercial products  
+
+---
+
+## 🧠 Philosophy
+
+> **“Everyone deserves access to great software — for free.”**
+
+We believe in:
+
+- simplicity  
+- transparency  
+- community-driven development  
+- freedom to use and improve software  
+
+---
+
+## 🛠 Areas We Work On
+
+Lanux Project contains multiple sub-projects such as:
+
+- 🌐 Web Applications  
+- 🖥 Desktop Software  
+- 📱 Mobile Tools  
+- 🔧 System Utilities  
+- 🧩 Developer Tools & Frameworks  
+
+---
+
+## 📦 Active & Upcoming Projects
+
+More information will be published soon  
+as repositories become public.
+
+Stay tuned 👀
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions from everyone!
+
+1. Fork the project  
+2. Make your changes  
+3. Submit a Pull Request  
+
+> Good software grows with community ✨
+
+---
+
+## 🛡 License
+
+All Lanux Project repositories are released under the:
+
+### **MIT License**
+
+Meaning you are free to use, modify and distribute the software.
+
+---
+
+## 📬 Contact & Links
+
+📩 info@lanux.online  
+🌍 https://lanux.online  
+🐙 https://github.com/lanux-project  
+
+---
+
+<p align="center">
+  <b>Lanux Project • Built for Everyone</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-7c5cff?style=for-the-badge">
+</p>
