@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://lanux.online">
-    <img src="https://img.shields.io/badge/Website-Lanux.Project-7c5cff?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Website-Lanux.online-7c5cff?style=for-the-badge">
   </a>
   <a href="https://github.com/lanux-project">
     <img src="https://img.shields.io/badge/GitHub-Repository-5a36ff?style=for-the-badge">
